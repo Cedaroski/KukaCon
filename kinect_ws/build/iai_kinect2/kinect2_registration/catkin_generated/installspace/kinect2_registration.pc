@@ -1,0 +1,8 @@
+prefix=/home/cedaroski/PycharmProjects/KukaCon/kinect_ws/install
+
+Name: kinect2_registration
+Description: Description of kinect2_registration
+Version: 0.0.1
+Cflags: -I/home/cedaroski/PycharmProjects/KukaCon/kinect_ws/install/include
+Libs: -L/home/cedaroski/PycharmProjects/KukaCon/kinect_ws/install/lib -lkinect2_registration
+Requires: 
